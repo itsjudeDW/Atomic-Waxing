@@ -58,7 +58,7 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-	background-image: url("images/focobg.jpg");
+	background-image: url("focobg.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
